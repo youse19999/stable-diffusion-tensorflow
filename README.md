@@ -172,3 +172,4 @@ The following outputs have been generated using this implementation:
 
 1) https://github.com/CompVis/stable-diffusion
 2) https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py
+t
